@@ -1,3 +1,7 @@
+---
+title: "OwnPlan Privacy Policy"
+---
+
 # OwnPlan Privacy Policy
 
 **Last Updated: May 09, 2025**
